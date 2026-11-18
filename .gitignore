@@ -1,0 +1,23 @@
+# Xilinx Vivado generated project files
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/*/imports/
+.Xil/
+*.jou
+*.log
+*.str
+*.backup.log
+*.backup.jou
+webtalk*
+vivado*.jou
+vivado*.log
+usage_statistics_webtalk.html
+fsm_encoding.os
+*.wdb
+*.pb
+*.rlx
+*.rdd
+clockInfo.txt
